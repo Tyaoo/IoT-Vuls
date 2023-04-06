@@ -68,7 +68,7 @@ Connection: close
 
 And the exploit was successfully.
 
-![67b55a7128b4197e37ef72f6e934810](C:\Users\tyao\AppData\Local\Temp\WeChat Files\67b55a7128b4197e37ef72f6e934810.png)
+![img-202304061847937](https://raw.githubusercontent.com/Tyaoo/PicBed/master/img/202304061847937.png)
 
 ### Additional information
 
