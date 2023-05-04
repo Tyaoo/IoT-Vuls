@@ -2,7 +2,7 @@
 
 ### Description
 
-The remote D-Link router is affected by a remote code execution vulnerability. D-Link DIR-846 v1.00A52 was discovered to contain a remote command execution (RCE) vulnerability via the tomography_ping_address parameter in /HNAP1/ interface.
+The remote D-Link router is affected by a remote code execution vulnerability. D-Link DIR-846 v1.00A52 firmware was discovered to contain a remote command execution (RCE) vulnerability via the tomography_ping_address parameter in /HNAP1/ interface.
 
 ### Attack type
 
@@ -14,7 +14,7 @@ Code Execution
 
 ### Affected component
 
-D-Link DIR-846
+D-Link DIR-846 v1.00A52 firmware
 
 ### Attack vector
 
