@@ -2,6 +2,8 @@
 
 ## General Information
 
+CVE: CVE-2023-34800
+
 Vendor: D-Link
 
 Affected Product: Go-RT-AC750
